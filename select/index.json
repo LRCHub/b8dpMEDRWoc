@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Chained Chase",
+  "base_artist": "Who-ya Extended",
+  "createdAt": "2026-02-12T16:09:38.453329Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chained Chase",
+      "artist": "Who-ya Extended",
+      "has_synced": false,
+      "path": "select/pl_01_Chained_Chase_Who-ya_Extended.txt"
+    }
+  ]
+}
